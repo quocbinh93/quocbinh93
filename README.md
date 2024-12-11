@@ -1,10 +1,5 @@
 ## Hi there 👋
 
-<!--
-**quocbinh93/quocbinh93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 # 💫 About Me:
 I am a student of information technology at [Phenikaa University](https://phenikaa-uni.edu.vn/vi).
 
@@ -28,5 +23,3 @@ I am a student of information technology at [Phenikaa University](https://phenik
 ---
 [![](https://visitcount.itsvg.in/api?id=quocbinh93&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
--->
