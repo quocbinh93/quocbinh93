@@ -1,7 +1,10 @@
 ## Hi there 👋
 
 # 💫 About Me:
-I am a student of information technology at [Phenikaa University](https://phenikaa-uni.edu.vn/vi).
+👋 Hi there!
+I'm an engineer passionate about automating technical design workflows. I'm currently working on developing protocols and API integrations for CAD software such as Autodesk Inventor and SolidWorks, with a strong focus on automation in engineering outsource projects.
+
+🔧 My goal is to streamline the design process, reduce manual errors, and build flexible, reusable automation systems that can adapt to different project needs.
 
 
 ## 🌐 Socials:
