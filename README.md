@@ -1,10 +1,11 @@
 ## Hi there 👋
 
 # 💫 About Me:
-👋 Hi there!
-I'm an engineer passionate about automating technical design workflows. I'm currently working on developing protocols and API integrations for CAD software such as Autodesk Inventor and SolidWorks, with a strong focus on automation in engineering outsource projects.
+As a Software Developer at the Institute of Energy Technology and Electrical Materials, I specialize in developing automation solutions and engineering tools that bridge the gap between mechanical design and software systems. With hands-on experience in tools such as SolidWorks API, Autodesk Inventor, and programming languages including C# and Python, I focus on building high-performance CAD automation systems and software for energy and electrical material applications.
 
-🔧 My goal is to streamline the design process, reduce manual errors, and build flexible, reusable automation systems that can adapt to different project needs.
+I have a strong foundation in Object-Oriented Programming (OOP), software development life cycles (SDLC), and agile practices like Scrum. My experience also includes research-oriented projects that combine technical problem-solving with innovation in industrial technologies.
+
+I’m passionate about designing intuitive, scalable systems that contribute to smarter and more sustainable engineering solutions.
 
 
 ## 🌐 Socials:
